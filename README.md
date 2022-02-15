@@ -9,4 +9,4 @@
 ###### - Rock, Paper, Scissors
 ###### - Password generator
 ###### - Hangman
-###### - Caesor's Cipher
+###### - Caeser's Cipher
